@@ -32,11 +32,13 @@ You are allowed to use any programming language, framework and technology that y
 
 ## Submissions
 
-**IMPORTANT**: For a submission to be considered valid, you have to provide at least one screenshot of your project. You also have to submit the public Github URL of the repository that hosts the project. It will be great if you can host your solution to a free service like Github Pages, or Heroku if you have a backend.
+The recommended way to participate in this challenge, is to fork this repository and start working on the forked version. You can delete this file in your own version too. This way it's easier for us to track the participations.
 
 Please submit your project by following our Instagram page and sending us a private message through Instagram's chat. As mentioned above, all GitHub profiles with a valid submission will be mentioned at the end of this file.
 
 [Code Branch Instagram Page](https://www.instagram.com/code.branch/)
+
+**IMPORTANT**: For a submission to be considered valid, you have to provide at least one screenshot of your project. You also have to submit the public Github URL of the repository that hosts the project. It will be great if you can host your solution to a free service like Github Pages, or Heroku if you have a backend.
 
 ## Questions and answers
 
